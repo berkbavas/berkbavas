@@ -10,9 +10,9 @@ My name is Berk Bavaş and I am a software developer from  🇹🇷.
 
 ## Tools
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo" />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="48" alt="cmake logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="48" alt="gcc logo" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" alt="intellij logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo" />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" height="48" alt="visual studio logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="48" /> |
-|:-------:|:---------:|:-------:|:------------:|:----------:|:-----------:|:------:|
-| __Git__ | __CMake__ | __GCC__ | __IntelliJ__ | __VSCode__ | __VS__ | __Eclipse__ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo" />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="48" alt="cmake logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="48" alt="gcc logo" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="48" alt="maven logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" alt="intellij logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo" />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" height="48" alt="visual studio logo" /> | 
+|:-------:|:---------:|:-------:|:---------:|:------------:|:----------:|:------:|
+| __Git__ | __CMake__ | __GCC__ | __Maven__ | __IntelliJ__ | __VSCode__ | __VS__ |
 
 <!---
 ## Stats
