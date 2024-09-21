@@ -4,15 +4,15 @@ My name is Berk Bavaş and I am a software developer from  🇹🇷.
 
 ## Languages
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="cplusplus logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="java logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="48" alt="qt logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="48" alt="opengl logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="48" alt="latex logo"  />  |
-|:--------:|:--------:|:------:|:----------:|:----------:|:----------:|
-|  __C++__ | __Java__ | __Qt__ | __Python__ | __OpenGL__ |  __LaTeX__ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="cplusplus logo" />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="java logo" />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="48" alt="qt logo" />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python logo" />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="48" alt="opengl logo" />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="48" alt="latex logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" /> |
+|:--------:|:--------:|:------:|:----------:|:----------:|:----------:|:---------:|
+|  __C++__ | __Java__ | __Qt__ | __Python__ | __OpenGL__ |  __LaTeX__ |__OpenCV__ |
 
 ## Tools
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="48" alt="cmake logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="48" alt="gcc logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" alt="intellij logo"  /> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="48" alt="visualstudio logo"  />  |
-|:-------:|:---------:|:-------:|:------------:|:----------:|:-----------------:|
-| __Git__ | __CMake__ | __GCC__ | __IntelliJ__ | __VSCode__ | __VS__ |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="git logo" />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="48" alt="cmake logo"  />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="48" alt="gcc logo" />  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" alt="intellij logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="vscode logo" />  |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" height="48" alt="visual studio logo" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="48" /> |
+|:-------:|:---------:|:-------:|:------------:|:----------:|:-----------:|:------:|
+| __Git__ | __CMake__ | __GCC__ | __IntelliJ__ | __VSCode__ | __VS__ | __Eclipse__ |
 
 
 ## Stats
