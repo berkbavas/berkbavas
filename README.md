@@ -14,12 +14,12 @@ My name is Berk Bavaş and I am a software developer from  🇹🇷.
 |:-------:|:---------:|:-------:|:---------:|:------------:|:----------:|:------:|
 | __Git__ | __CMake__ | __GCC__ | __Maven__ | __IntelliJ__ | __VSCode__ | __VS__ |
 
-
+<!---
 ## Stats
 | X Report | Most Used Languages |
 |:--------:|:-------------------:|
 | <img src="https://github-readme-stats.vercel.app/api?username=berkbavas&hide_rank=false&theme=graywhite&locale=en&show_icons=true&hide_border=true&hide_title=true&count_private=true&disable_animations=true&text_bold=false&line_height=30&include_all_commits=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkbavas&theme=vue&show_icons=true&hide_border=true&hide_title=true&disable_animations=true&langs_count=4" /> |
-
+-->
 
 <!---
 ## 
