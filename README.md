@@ -22,8 +22,4 @@ My name is Berk Bavaş and I am a software developer from  🇹🇷.
 -->
 
 <img src="https://komarev.com/ghpvc/?username=berkbavas092024&color=lightgrey" height="0" />
-
-<!---
-## 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=berkbavas.berkbavas&right_color=lightgrey&left_text=Profile%20Views%20%20" height="24" />
---> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=berkbavas.berkbavas&right_color=lightgrey&left_text=Profile%20Views%20%20" height="0" />
