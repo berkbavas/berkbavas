@@ -21,9 +21,8 @@ My name is Berk Bavaş and I am a software developer from Turkey 🇹🇷.
 | <img src="https://github-readme-stats.vercel.app/api?username=berkbavas&hide_rank=false&theme=graywhite&locale=en&show_icons=true&hide_border=true&hide_title=true&count_private=true&disable_animations=true&text_bold=false&line_height=30&include_all_commits=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkbavas&theme=vue&show_icons=true&hide_border=true&hide_title=true&disable_animations=true&langs_count=4" /> |
 -->
 
-##
+
 <img src="https://komarev.com/ghpvc/?username=berkbavas092024&color=lightgrey" alt="Profile views badge" />
-## Contact
 
 <!-- Add your contact links below -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) -->
