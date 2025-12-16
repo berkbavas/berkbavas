@@ -1,6 +1,6 @@
 # Hey 👋, How are you?
 
-My name is Berk Bavaş and I am a software developer from Turkey 🇹🇷.
+My name is Berk Bavaş and I'm a **software developer** from Turkey 🇹🇷 focusing on real-time graphics, simulation tools, and C++/Qt/OpenGL-based desktop applications. I build rendering engines, visualization tools, and high-performance UI systems. I mainly work with **C++**, **Qt**, **QML**, and **OpenGL**.
 
 ## Languages & Frameworks
 
